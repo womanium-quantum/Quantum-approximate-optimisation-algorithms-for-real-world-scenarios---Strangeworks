@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+networkx
+matplotlib
+pylatexenc
+qiskit
